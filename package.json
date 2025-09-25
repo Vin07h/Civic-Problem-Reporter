@@ -11,5 +11,8 @@
   "license": "ISC",
   "workspaces": [
     "apps/*"
-  ]
+  ],
+  "dependencies": {
+    "@supabase/supabase-js": "^2.58.0"
+  }
 }
